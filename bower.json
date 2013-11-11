@@ -1,0 +1,22 @@
+{
+  "name": "DnD-App",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jmartin4563/DnD-App",
+  "description": "A compendium of 4th Edition DnD rules/stats for ease of use during encounters",
+  "authors": [
+    "Jessica Martin"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.0",
+    "bootstrap": "~3.0.2"
+  }
+}
